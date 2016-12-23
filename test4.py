@@ -17,4 +17,6 @@ https://docs.scipy.org/doc/numpy/reference/routines.math.html
 
 https://docs.scipy.org/doc/numpy/user/basics.html
 
-http://www.holehouse.org/mlclass/06_Logistic_Regression.html  
+http://www.holehouse.org/mlclass/
+
+  
