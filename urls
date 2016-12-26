@@ -41,3 +41,6 @@ https://github.com/aymericdamien/TensorFlow-Examples
 [Test Data]
 http://yann.lecun.com/exdb/mnist/
 
+[backpropagation]
+https://devblogs.nvidia.com/parallelforall/inference-next-step-gpu-accelerated-deep-learning
+
