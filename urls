@@ -38,6 +38,8 @@ http://sebastianraschka.com/Articles/2015_singlelayer_neurons.html
 [TensorFlow-Examples]
 https://github.com/aymericdamien/TensorFlow-Examples
 
+[Elman이 제안한 아주 간단한 RNNs]
+https://web.stanford.edu/group/pdplab/pdphandbook/handbookch8.html
 [Test Data]
 http://yann.lecun.com/exdb/mnist/
 
