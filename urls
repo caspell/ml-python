@@ -48,3 +48,6 @@ https://devblogs.nvidia.com/parallelforall/inference-next-step-gpu-accelerated-d
 
 [Backpropagation Through Time]
 https://www.cs.cmu.edu/~bhiksha/courses/deeplearning/Fall.2015/pdfs/Werbos.backprop.pdf
+
+[Convolutional Neural Networks for Visual Recognition]
+http://cs231n.github.io/neural-networks-3/
